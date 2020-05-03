@@ -20,4 +20,5 @@ Enter century of birth eg 20 for 2020 or 19 for 1990
  ## Known Bugs 
  * Output may not be accurate 
  ### License
+MIT license
 Copyright (c) {2020}Ryan Munge Githanji 
