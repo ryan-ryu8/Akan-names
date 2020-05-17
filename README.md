@@ -16,7 +16,7 @@ Enter century of birth eg 20 for 2020 or 19 for 1990
  *Enter month of birth eg 11 for November
  *Enter date of month eg 7
  *Select gender you belong to
- Submit. Program compares the inputs with conditions in the inputs, so if there are no inputs the program will execute an else for alert to enter valid details
+ Submit. Program compares the inputs with conditions in the inputs, so if there are no inputs the program will execute an else for alert to enter valid details.
  ## Known Bugs 
  * Output may not be accurate.
  ### License
