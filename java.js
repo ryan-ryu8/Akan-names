@@ -4,7 +4,7 @@ var maleNames = ["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"];
 var femaleNames = ["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
 
 function validate(){
-  var genders = document.getElementsByName("gender");
+  var genders = document.getElementsByName("gender")
   if(document.myForm.year.value == "" || document.myForm.year.value.length !=4 || document.myForm.year.value>2100 || document.myForm.year.value <= 1900){
   alert("Please provide a valid year of birth!");
   document.myForm.year.focus();
