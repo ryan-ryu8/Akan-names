@@ -1,7 +1,7 @@
 # Akan-names
 In this you get to know your Ghanian name depending on the day of the week you were born by taking the user's details and outputs their Akan Names depending on their gender.
 #### By 
-Ryan Munge Githanji(https://github.com/ryan-ryu8/Akan-names.com)
+[Ryan Munge Githanji](https://github.com/ryan-ryu8/Akan-names.git)
 ## Setup/Installation Requirements
 * Open the terminal in atom
 * cd Akan-Names
