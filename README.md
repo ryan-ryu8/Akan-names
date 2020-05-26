@@ -3,7 +3,7 @@ In this you get to know your Ghanian name depending on the day of the week you w
 #### By 
 Click me [Ryan Munge Githanji](https://ryan-ryu8.github.io/Akan-names/)
 ## Setup/Installation Requirements
-* Open the terminal in atom
+* Open the terminal in atom.
 * cd Akan-Names
 ## Technologies Used
 * HTML
