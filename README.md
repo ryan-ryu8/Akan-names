@@ -11,12 +11,13 @@ Click me [Ryan Munge Githanji](https://ryan-ryu8.github.io/Akan-names/)
 *JavaScript
 *Bootstrap
 ## BDD
-Enter century of birth eg 20 for 2020 or 19 for 1990
- *Enter birth year eg 98 for 1998 
- *Enter month of birth eg 11 for November
- *Enter date of month eg 7
- *Select gender you belong to
- Submit. Program compares the inputs with conditions in the inputs, so if there are no inputs the program will execute an else for alert to enter valid details.
+| Enter century of birth | eg 20 for 2020 or 19 for 1990 |
+ *Enter birth year | eg 98 for 1998 |
+ *Enter month of birth | eg 11 for November|
+ *Enter date of month | eg 7 |
+ *Select gender you belong to |
+ |:---    |            ---:  |
+ Submit. Program compares the inputs with conditions in the inputs, so if there are no inputs the program will execute an else for alert to enter valid details. |
  ## Known Bugs 
  * Output may not be accurate.
  ### License
